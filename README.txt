@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 Description: My implementation of the cat utility for viewing files in Golang
 Program: Cat utility
-Languages: Golang: go1.23.5
+Languages: Golang - go1.23.5
 Tested on: Linux 6.11.2
 Author: ghostface-cybersecurity
 _________________________________________________________________________________________________
