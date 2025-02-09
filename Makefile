@@ -1,17 +1,17 @@
 .DEFAULT_GOAL := build
 
 fmt:
-	go fmt cat.go
+	go fmt src/cat.go
 .PHONY:fmt
 
 lint: fmt
-	golint cat.go
+	golint src/cat.go
 .PHONY:lint
 
 vet: fmt
-	go vet cat.go
+	go vet src/cat.go
 .PHONY:vet
 
 build: vet
-	go build cat.go
+	go build src/cat.go
 .PHONY:build
