@@ -14,7 +14,7 @@ Description: My implementation of the cat utility for viewing files in Golang
 Program: Cat utility
 Languages: Golang - go1.23.5
 Tested on: Linux 6.11.2
-Author: ghostface-engineer
+Author: scarlet-oni
 _________________________________________________________________________________________________
                                          PROGRAM LAUNCH
 _________________________________________________________________________________________________
